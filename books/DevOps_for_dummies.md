@@ -1,0 +1,23 @@
+# Part 1: Demystifying DevOps
+## Chapter 1: Introducing DevOps
+- silo
+- tenet
+- encompassing - 包罗万象的
+- holistic - 整体的
+- manifesto - 宣言
+- revolutionize - 革命化
+- take hold - 扎根
+- fad - 时尚
+- nirvana - 涅槃
+- inertia - 惯性
+- mindset - 思维模式
+- rapport - 融洽关系
+- lean manufacturing - 精益生产
+- carve - 雕刻
+- relentless - 无情的
+- CALMS (culture, automation, lean, measurement, sharing) - CALMS（文化、自动化、精益、测量、共享）
+- litmus test - 试金石
+- scrappy - 坚韧不拔的
+- eschew - 避开
+- bolster - 支持
+- pique - 激起
